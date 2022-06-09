@@ -1,0 +1,83 @@
+body {
+    font-family: fantasy;
+    font-size: 17px;
+    background-image: url(/Images/Nature.jpeg);
+    color: azure;
+    font-weight: bold;
+    height: 400px;
+    float: top;
+    background-repeat: repeat-x;
+
+
+}
+
+a {
+    color: azure;
+}
+
+.vertical_dotted_line1 {
+    border-left: 1px dotted white;
+    height: 240px;
+
+}
+
+.vertical_dotted_line2 {
+    border-left: 1px dotted white;
+    height: 240px;
+
+}
+
+.vertical_dotted_line3 {
+    border-left: 1px dotted white;
+    height: 240px;
+
+}
+
+.vertical_dotted_line4 {
+    border-left: 1px dotted white;
+    height: 240px;
+
+}
+
+.vertical_dotted_line5 {
+    border-left: 1px dotted white;
+    height: 240px;
+    float: left;
+}
+
+
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+
+
+}
+
+.fsd {
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 80px;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+
+}
+
+ul {
+    list-style: none;
+    margin-right: 40px;
+
+
+}
+
+.socialmedia {
+    justify-content: center;
+    float: right;
+    display: none;
+}

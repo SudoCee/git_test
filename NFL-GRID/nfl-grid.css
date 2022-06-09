@@ -1,0 +1,270 @@
+body {
+    background-color: black;
+}
+.header {
+    color: azure;
+    display: block;
+    margin-left: 680px;
+    font-size: 25px;
+    outline: 2px solid azure;
+    margin-right: 700px;
+    padding-left: 115px;
+    font-family: fantasy;
+}
+
+
+.big-grid {
+    margin-top: 100px;
+    display: grid;
+    row-gap: 1.5rem;
+    column-gap: 2rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    font-weight: bold;
+    font-family: Roboto;
+
+   
+
+}
+
+.t1 {
+    background-image: url("/images/t1p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+    color: azure;
+
+
+
+}
+
+.t2 {
+    background-image: url("/images/t2p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+    grid-column: 3;
+    grid-row: -3;
+
+}
+
+.t3 {
+    background-image: url("/images/t3p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+
+}
+
+
+.t4{
+    background-image: url("/images/t4p.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+    
+}
+
+.t5 {
+    background-image: url("/images/t5p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+    
+
+}
+
+
+.t6{
+    background-image: url("/images/t6p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+
+}
+
+.t7 {
+    background-image: url("/images/t7p.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+
+.t8{
+    background-image: url("/images/t8p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+.t9 {
+    background-image: url("/images/t9p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+
+.t10{
+    background-image: url("/images/t10p.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+.t11 {
+    background-image: url("/images/t11p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+
+.t12{
+    background-image: url("/images/t12p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+.t13 {
+    background-image: url("/images/t13p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+
+.t14{
+    background-image: url("/images/t14p.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+.t15 {
+    background-image: url("/images/t15p.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+
+.t16{
+    background-image: url("/images/t16p.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50% 50%;
+    padding: 2em;
+    border-radius: 24px;
+    outline: 2px solid white;
+}
+
+.bills-text{
+    display: grid;
+    color: azure;
+    outline: 4px solid azure;
+    padding: 1rem;
+    border-radius: 20px;
+    row-gap: 1rem;
+}
+
+.browns-text{
+    display: grid;
+    color: azure;
+    outline: 4px solid azure;
+    padding: 1rem;
+    border-radius: 20px;
+
+}
+.patriots-text{
+    display: grid;
+    color: azure;
+    outline: 4px solid azure;
+    padding: 1rem;
+    border-radius: 20px;
+    row-gap: 1rem;
+}
+
+.jets-text{
+    display: grid;
+    color: azure;
+    outline: 4px solid azure;
+    padding: 1rem;
+    border-radius: 20px;
+
+}
+.cowboys-text{
+    display: grid;
+    color: azure;
+    outline: 4px solid azure;
+    padding: 1rem;
+    border-radius: 20px;
+    row-gap: 1rem;
+}
+
+.giants-text{
+    display: grid;
+    color: azure;
+    outline: 4px solid azure;
+    padding: 1rem;
+    border-radius: 20px;
+
+}
+
+.team-text{
+    display: grid;
+     grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+
+}
+
